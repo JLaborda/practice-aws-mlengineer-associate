@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Udemy course materials (do not commit — copyright)
+MLA-C02-Materials/
