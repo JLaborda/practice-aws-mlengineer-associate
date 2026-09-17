@@ -219,3 +219,10 @@ __marimo__/
 
 # Udemy course materials (do not commit — copyright)
 MLA-C02-Materials/
+
+# Terraform local state (lock files under labs/ are committed per lab)
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+*.tfplan

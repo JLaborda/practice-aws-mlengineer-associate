@@ -1,0 +1,7 @@
+# Copy to terraform.tfvars and set a globally unique name:
+#   cp terraform.tfvars.example terraform.tfvars
+#
+# Example: jdls-123456789012-us-east-1
+
+bucket_name = "jlaborda-demo-001-"
+aws_region  = "us-east-1"
