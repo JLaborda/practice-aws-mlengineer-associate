@@ -226,3 +226,6 @@ MLA-C02-Materials/
 *.tfstate.backup
 terraform.tfvars
 *.tfplan
+
+# Terraform lock file
+.terraform.lock.hcl
